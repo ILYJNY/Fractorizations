@@ -1,6 +1,7 @@
 # Fractorization Algorithms Library
 ## <U>[GCD(최대공약수)](https://github.com/ILYJNY/Fractorizations/tree/master/GCD)</U>
-###     *[Euclidian Algorithm]
+###     *<U>[Euclidian Algorithm(유클리드 알고리즘)](https://github.com/ILYJNY/Fractorizations/blob/master/SOE/main/FSOE.cpp)</U>
+###     *<U>[Extanded Euclidian Algorithm(확장된 유클리드 알고리즘)](https://github.com/ILYJNY/Fractorizations/blob/master/GCD/Extanded%20Euclidian%20Algorithm.cpp)</U>
 ## <U>[GNFS(수체 체)](https://github.com/ILYJNY/Fractorizations/tree/master/GNFS)</U>
 ## <U>[LECA(렌스트라 타원곡선)](https://github.com/ILYJNY/Fractorizations/tree/master/LECA)</U>
 ## <U>[MQS(다중 이차 체)](https://github.com/ILYJNY/Fractorizations/tree/master/MQS)</U>
