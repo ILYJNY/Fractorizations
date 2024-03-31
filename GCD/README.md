@@ -1,5 +1,5 @@
 # General Euclidian Algorithm
-## maded by <span style="color:pink">HinaLover</span>
+## maded by <span style="color:pink"><U>**[HinaLover](https://github.com/ILYJNY)**</U></span>
 ###
 ###
 ###
