@@ -4,4 +4,4 @@
 ###
 ###
 ###
-### $\mathbb R$ $\in$ $N$, 
+### Use it to Factorizate an $N$ that $\mathbb R$ $\in$ $N$ Normaly, we use that for fractorizating number more that 100 digits, then it is Faster than <span style = "color:blue"><U>[QS](https://)</U></span>
