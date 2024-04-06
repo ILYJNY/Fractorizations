@@ -1,8 +1,7 @@
 #include "iostream"
 #include "SOE/main/SOE.cpp"
 #include "SOE/main/FSOE.cpp"
-#include "GCD/Euclidian Algorithm.cpp"
-
+#include "Shore Algorithm/main/main.cpp"
 
 using namespace std;
 
@@ -14,20 +13,31 @@ int main() {
     getline(cin, answer);
     //printf("%s", answer.c_str());
     if (answer == "SOE") {
-
-        SOE();
+        cout << "enter number";
+        int a;
+        cin >> a;
+        cout << SOE(a);
     }
     if (answer == "FSOE") {
-
-        FSOE();
+        cout << "enter number";
+        int a;
+        cin >> a;
+        cout << FSOE(a);
     }
     if (answer == "SOE BIG") {
-
-        SOE_llu();
+        cout << "enter number";
+        ulld a;
+        cin >> a;
+        cout << SOE_llu(a);
     }
     if (answer == "FSOE BIG") {
-
-        FSOE_llu();
+        cout << "enter number";
+        ulld a;
+        cin >> a;
+        cout << FSOE_llu(a);
+    }
+    if (answer == "Shore") {
+        main_shore();
     }
     return 0;
 
