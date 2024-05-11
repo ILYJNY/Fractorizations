@@ -2,6 +2,9 @@
 #include "SOE/main/SOE.cpp"
 #include "SOE/main/FSOE.cpp"
 #include "Shore Algorithm/main/main.cpp"
+#include "Fermat Factorizations/FF.cpp"
+
+
 
 using namespace std;
 
@@ -38,6 +41,9 @@ int main() {
     }
     if (answer == "Shore") {
         main_shore();
+    }
+    if (answer == "Fermat") {
+        Fermat_Frac();
     }
     return 0;
 
