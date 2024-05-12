@@ -1,13 +1,9 @@
 # ninja log v5
-12	955	7371346980734173	CMakeFiles/Fractorizations.dir/main.cpp.obj	822efdd5a0516d3a
-3	227	7371347512257639	build.ninja	a211e4614209ce1f
-906	1132	7341062907805447	Fractorizations.exe	a161534f41ee3d52
+13	930	7371376382902836	CMakeFiles/Fractorizations.dir/main.cpp.obj	822efdd5a0516d3a
+2	262	7372214704524549	build.ninja	a211e4614209ce1f
+932	1146	7371376384987256	Fractorizations.exe	a161534f41ee3d52
 38	1044	7340988860830654	CMakeFiles/Fractorizations.dir/Shore_Algorithm/main/shore.cpp.obj	ced2df42f9741f34
 27	1048	7340988860840625	CMakeFiles/Fractorizations.dir/Shore_Algorithm/main/main.cpp.obj	56586690f8d594d0
 26	786	7371346979029146	CMakeFiles/Fractorizations.dir/Fermat_Factorizations/FF.cpp.obj	ee94c59e0fc6ad64
-2	262	7371347512257639	build.ninja	a211e4614209ce1f
-13	218	7371347515041059	Fractorizations.exe	a161534f41ee3d52
-12	913	7371348043000580	CMakeFiles/Fractorizations.dir/main.cpp.obj	822efdd5a0516d3a
-915	1124	7371348045035162	Fractorizations.exe	a161534f41ee3d52
-13	930	7371376382902836	CMakeFiles/Fractorizations.dir/main.cpp.obj	822efdd5a0516d3a
-932	1146	7371376384987256	Fractorizations.exe	a161534f41ee3d52
+26	2352	7372215620055664	CMakeFiles/Fractorizations.dir/main.cpp.obj	822efdd5a0516d3a
+2357	2917	7372215625641905	Fractorizations.exe	a161534f41ee3d52
